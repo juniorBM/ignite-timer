@@ -1,3 +1,5 @@
+import { styled } from 'styled-components'
+
 export const CountDownContainer = styled.div`
   font-family: 'Roboto Mono', monospace;
   font-size: 10rem;
